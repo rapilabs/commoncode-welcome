@@ -1,0 +1,41 @@
+
+
+body {
+  background-color: white;
+  color: #282626;
+  font-family: Helvetica, Arial, sans-serif; /*AvenirNext-Medium proxima-nova,Helvetica,Arial,sans-serif*/
+  margin: 0;
+}
+
+h1 {
+  background-color: #282626;
+  color: #eb005a;
+  font-size: 42px;
+  padding: 50px;
+  text-align: center;
+  background-image: url(/img/common-large.svg);
+  background-position: 50px center;
+  background-repeat: no-repeat;
+}
+
+h2 {
+  font-size: 32px;
+  margin-top: 2em;
+  margin-right: 50px;
+  margin-left: 50px;
+  text-align: center;
+}
+
+b {
+  font-weight: bold;
+}
+
+p {
+  margin: 2em 50px;
+  line-height: 1.5em;
+  text-align: center;
+}
+
+ul {
+  margin: 50px;
+}
